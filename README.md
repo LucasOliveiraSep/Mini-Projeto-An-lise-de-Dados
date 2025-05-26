@@ -24,7 +24,7 @@ Editar
 O objetivo deste projeto é explorar e analisar um conjunto de dados relacionados a serviços prestados por uma empresa, cruzando informações de clientes, funcionários e operações. A análise busca responder perguntas como:
 
 - Quais funcionários realizaram mais serviços?
-- Qual cliente gerou maior faturamento?
+- Qual o faturamento?
 - Quais são os serviços mais realizados?
 - Quais insights podemos obter para decisões estratégicas?
 
@@ -76,13 +76,12 @@ E abra o arquivo DesafioAnálise.ipynb.
 📈 Resultados e Insights
 Durante a análise, foram extraídas informações relevantes como:
 
-Funcionário com maior número de serviços realizados
+Funcionários com maior número de serviços realizados
 
 Cliente com maior faturamento gerado
 
 Serviços mais populares
 
-Correlações entre tempo, tipo de serviço e desempenho
 
 Esses dados podem auxiliar na tomada de decisão estratégica para otimizar a operação da empresa.
 
